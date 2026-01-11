@@ -126,7 +126,7 @@ and follow their installation instructions.
 ### 3. Clone This Repo
 
 ```bash
-gitclone https://github.com/nasha-wanich/electron-app-template.git
+git clone https://github.com/nasha-wanich/electron-app-template.git
 cd electron-app-template
 ```
 
